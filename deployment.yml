@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: container-devmyapp
-        image: stategyhq/myapp:38
+        image: stategyhq/myapp:42
         ports:
         - containerPort: 80
 ---
