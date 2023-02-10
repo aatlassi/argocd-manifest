@@ -6,7 +6,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: ""
+  - host: "3.96.184.187"
     http:
       paths:
         - pathType: Prefix
